@@ -1,0 +1,6 @@
+framework module LeadFramework {
+  umbrella header "LeadFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

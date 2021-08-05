@@ -1,0 +1,16 @@
+PODS:
+  - LeadFramework (1.0.0)
+
+DEPENDENCIES:
+  - LeadFramework (from `../LeadFramework/`)
+
+EXTERNAL SOURCES:
+  LeadFramework:
+    :path: "../LeadFramework/"
+
+SPEC CHECKSUMS:
+  LeadFramework: 412cb54c0b37e6f9ceecbdface806402da35f005
+
+PODFILE CHECKSUM: d7b69364d35b315346ced973a839ac8cdd8afffc
+
+COCOAPODS: 1.10.2
